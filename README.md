@@ -1,7 +1,7 @@
 # Guia Completo para Pesca do Black Bass
 
 ## 📒 Descrição
-Este e-book de 5 páginas é um guia completo para a pesca do black bass, trazendo informações detalhadas da espécie e dicas para pesca em cada estação do ano.
+Este e-book de 6 páginas é um guia completo para a pesca do black bass, trazendo informações detalhadas da espécie e dicas para pesca em cada estação do ano.
 
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização;

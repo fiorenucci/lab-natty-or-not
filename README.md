@@ -14,4 +14,4 @@ Utilizei o "ChatGPT" para revisar minha pesquisa sobre a pesca do Black Bass, es
 ## 🚀 Resultados
 O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando todas as informações necessárias para quem pretende iniciar na pesca do Black Bass.
 
-[LINK PARA O E-BOOK AQUI]()
+[[LINK PARA O E-BOOK AQUI](https://github.com/fiorenucci/lab-natty-or-not/blob/main/E-Book_Black_Bass.docx)]()
